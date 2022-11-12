@@ -6,5 +6,5 @@
 
 ### Doing 🌻
 
-- 🍃 Learning Github
+- 🍃 Learning [Github](https://github.com/sha3nchn/sha3nchn/blob/main/learning/github.md)
 
