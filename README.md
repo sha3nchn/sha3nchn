@@ -6,5 +6,7 @@
 
 ### Doing 🌻
 
-- 🍃 Learning [Github](https://github.com/sha3nchn/sha3nchn/blob/main/learning/github.md)
+- 🔰 Start point [GitHub skills](https://skills.github.com/?utm_source=pocket_saves)
+
+- 🍃 Learning notebook [Github](https://github.com/sha3nchn/sha3nchn/blob/main/learning/github.md)
 
